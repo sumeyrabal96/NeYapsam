@@ -1,0 +1,2 @@
+# NeYapsam
+Ne yapsam uygulaması
